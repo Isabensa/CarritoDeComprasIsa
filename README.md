@@ -5,7 +5,7 @@
   Implementa Context API, animaciones con Framer Motion y notificaciones visuales con React Toastify.
 </p>
 
----
+
 
 ## 📸 Vista previa
 
@@ -14,6 +14,9 @@
   <br/><br/>
   <img src="./public/vistaprevia2.png" width="85%" alt="Vista previa modo oscuro"/>
 </p>
+--
+## 🌐 Demo en línea
+🔗 [carritodecomprasisa.netlify.app](https://carritodecomprasisa.netlify.app)
 
 ---
 
